@@ -1,2 +1,8 @@
-# aula07
-Código da aula fullstack Java 07
+Curso Full Stack Java - Turma Vespertina
+
+
+Aula 07
+
+-GIT
+-Github
+-Javascript
